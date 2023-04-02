@@ -35,11 +35,11 @@ To run this project, you will need to have .NET Core 6.0 and MongoDB installed o
 
 The blog post data model consists of the following fields:
 
-  Id: The unique identifier of the blog.
-  Title: The title of the blog.
-  Content: The content of the blog.
-  Author: The name of the author of the blog.
-  Tag: The category/tag of the blog.
+  * Id: The unique identifier of the blog.
+  * Title: The title of the blog.
+  * Content: The content of the blog.
+  * Author: The name of the author of the blog.
+  * Tag: The category/tag of the blog.
 
 ## License
 
